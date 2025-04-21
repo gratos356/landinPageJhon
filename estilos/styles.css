@@ -1,0 +1,63 @@
+*{
+    font-family: sans-serif ;
+}
+.titulo{
+    margin-bottom: 15px;
+}
+.titulo h1{
+    position: absolute;
+    color: rgb(27, 26, 26);
+    font-size: 20px;
+    margin-left: 35px;
+}
+.titulo img{
+    position: absolute;
+    width: 30px;
+    margin-top: 10px;
+}
+.header{
+    /* background: red; */
+    width: 48 0px;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 600px;
+}
+.header button{
+    color: rgba(128, 128, 128, 0.582);
+    background: none;
+    border: none;
+    height: 40px;
+    width: 90px;
+    margin: 1px 15px;
+}
+.header div{
+    display: inline;
+}
+.singUp button{
+    color: white;
+    background: rgb(137, 137, 253);
+    border-radius: 15%;
+    /* border: black solid; */
+}
+.description{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 35px;
+}
+.description h2{
+    font-size: 12px;
+    color: rgba(128, 128, 128, 0.562);
+}
+.description button{
+    background: rgb(137, 137, 253);
+    border:  none;
+    border-radius: 15% ;
+    width: 100px;
+    height: 40px;
+    color: white;
+}
+.image img{
+    height: 400px;
+    margin-left: 700px;
+    margin-top: 100px;
+}
